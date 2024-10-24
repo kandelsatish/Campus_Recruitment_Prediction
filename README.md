@@ -58,7 +58,7 @@ pip install -r requirements.txt
 git clone https://github.com/kandelsatish/Campus_Recruitment_Prediction.git 
 ```
 ```
-cd Campus-Recruitment-Prediction
+cd Campus_Recruitment-Prediction
 cd notebook
 
 ```
